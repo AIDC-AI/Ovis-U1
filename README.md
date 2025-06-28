@@ -1,9 +1,9 @@
-<div style="text-align:center;">
-<img src=https://cdn-uploads.huggingface.co/production/uploads/637aebed7ce76c3b834cea37/3IK823BZ8w-mz_QfeYkDn.png width="30%"/></div>
+<p align="center">
+<img src=https://cdn-uploads.huggingface.co/production/uploads/637aebed7ce76c3b834cea37/3IK823BZ8w-mz_QfeYkDn.png width="30%"/></p>
 
-<div style="text-align:center; font-size:25px;">
+<p align="center">
 Ovis-U1: Unified Understanding, Generation, and Editing
-</div>
+</p>
 
 <p align="center">
   <!-- <a href="https://arxiv.org/abs/2502.12579"><img src="https://img.shields.io/badge/arXiv%20paper-2502.12579-b31b1b.svg" alt="arxiv"></a> -->
@@ -16,10 +16,11 @@ Ovis-U1: Unified Understanding, Generation, and Editing
 Building on the foundation of the Ovis series, Ovis-U1 is a 3-billion-parameter unified model that  seamlessly integrates <b>multimodal understanding</b>, <b>text-to-image generation</b>, and <b>image editing</b> within a single powerful framework. 
 </p>
 
-<figure>
-  <img src="docs/imgs/Ovis-U1.jpg" alt="Ovis-U1 architecture">
-  <figcaption style="text-align: center;">The overall architecture of Ovis-U1 (cf. Fig.2 in our report).</figcaption>
-</figure>
+<p align="center">
+  <img src="docs/imgs/Ovis-U1.jpg" width="95%">
+  <br>
+  <em>The overall architecture of Ovis-U1 (cf. Fig.2 in our report).</em>
+</p>
 
 ## 🏆 Highlights
 
