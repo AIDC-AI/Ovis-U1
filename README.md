@@ -83,8 +83,8 @@ For image editing, please run
 ```bash
 python test_img_edit.py \
     --steps 50 \
-    --img_cfg 4 \
-    --txt_cfg 7.5  
+    --img_cfg 1.5 \
+    --txt_cfg 6  
 ```
 
 Alternatively, you can try Ovis-U1 directly in your browser on [![Hugging Face Space](https://img.shields.io/badge/🎨_HF_Spaces-AIDC--AI/Ovis--U1--3B-lightblack)](https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B)
