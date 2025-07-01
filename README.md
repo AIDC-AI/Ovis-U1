@@ -6,8 +6,8 @@ Ovis-U1: Unified Understanding, Generation, and Editing
 </h1>
 
 <p align="center">
-  <!-- <a href="https://arxiv.org/abs/2502.12579"><img src="https://img.shields.io/badge/arXiv%20paper-2502.12579-b31b1b.svg" alt="arxiv"></a> -->
-  <a href="https://github.com/AIDC-AI/Ovis-U1/blob/main/docs/Ovis_U1_Report.pdf"><img src="https://img.shields.io/badge/Paper-Tech_Report-b31b1b" alt="paper"></a>
+  <a href="https://arxiv.org/abs/2506.23044"><img src="https://img.shields.io/badge/arXiv_paper-2506.23044-b31b1b.svg" alt="arxiv"></a>
+<!--   <a href="https://github.com/AIDC-AI/Ovis-U1/blob/main/docs/Ovis_U1_Report.pdf"><img src="https://img.shields.io/badge/Paper-Tech_Report-b31b1b" alt="paper"></a> -->
   <a href="https://github.com/AIDC-AI/Ovis"><img src="https://img.shields.io/badge/GitHub-AIDC--AI/Ovis--U1-blue?style=flat&logo=github" alt="code"></a>
   <a href="https://huggingface.co/spaces/AIDC-AI/Ovis-U1-3B"><img src="https://img.shields.io/badge/🎨_HF_Spaces-AIDC--AI/Ovis--U1--3B-lightblack" alt="demo"></a>
   <a href="https://huggingface.co/AIDC-AI/Ovis-U1-3B"><img src="https://img.shields.io/badge/🤗_Model-AIDC--AI/Ovis--U1--3B-yellow" alt="model"></a>
