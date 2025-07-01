@@ -171,10 +171,11 @@ Alternatively, you can try Ovis-U1 directly in your browser on [![Hugging Face S
 If you find Ovis-U1 useful for your research or applications, please cite our technical report:
 
 ```bibtex
-@inproceedings{wang2025ovisu1,
-title={Ovis-U1 Technical Report},
-author={Ovis Team},
-year={2025}
+@article{wang2025ovisu1,
+  title={Ovis-U1 Technical Report}, 
+  author={Wang, Guo-Hua and Zhao, Shanshan and Zhang, Xinjie and Cao, Liangfu and Zhan, Pengxin and Duan, Lunhao and Lu, Shiyin and Fu, Minghao and Zhao, Jianshan and Li, Yang and Chen, Qing-Guo},
+  journal={arXiv preprint arXiv:2506.23044},
+  year={2025}
 }
 ```
 
