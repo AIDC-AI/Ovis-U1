@@ -19,7 +19,7 @@ def build_inputs(model, text_tokenizer, visual_tokenizer, prompt, pil_image):
     prompt, input_ids, pixel_values, grid_thws = model.preprocess_inputs(
         prompt, 
         [pil_image], 
-        generation_preface=None,
+        generation_preface='',
         return_labels=False,
         propagate_exception=False,
         multimodal_type='single_image',
