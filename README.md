@@ -63,10 +63,16 @@ pip install -e .
 
 We provide simple scripts to test the different capabilities of Ovis-U1.
 
-For multimodal understanding, please run
+For single image understanding, please run
 
 ```bash
 python test_img_to_txt.py
+```
+
+For multi-image understanding, please run
+
+```bash
+python test_multi_img_to_txt.py
 ```
 
 For text-to-image, please run
